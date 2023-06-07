@@ -2,6 +2,7 @@
       
 ## Description
 This application is an API that serves as the back end for a social media site, allowing users to add and remove friends, create users, share and update thoughts, and provide reactions to said thoughts
+
       
 ## Table Of Contents
 - [Installation](#installation)
@@ -18,9 +19,14 @@ This project is a proof of concept more than anything, displaying the various fu
       
 ## Credits
 Ian Hall, Kayvon Kazemini
+
+Special Thanks to Kayvon Kazemini for tutoring and walkthrough support on the creation of this application.
       
 ## License
 This Project Is Licensed Under The MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
       
 ## Questions
 You can reach me via email at ianmatthall@gmail.com
